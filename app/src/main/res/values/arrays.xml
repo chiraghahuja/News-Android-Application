@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="news_tabs_id">
+        <item>@string/news_tab_id_worldnews</item>
+        <item>@string/news_tab_id_technology</item>
+        <item>@string/news_tab_id_business</item>
+        <item>@string/news_tab_id_sports</item>
+    </string-array>
+
+    <string-array name="news_tabs_string">
+        <item>@string/news_tab_string_worldnews</item>
+        <item>@string/news_tab_string_technology</item>
+        <item>@string/news_tab_string_business</item>
+        <item>@string/news_tab_string_sports</item>
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="news_tab_string_worldnews">WORLD</string>
+    <string name="news_tab_string_sports">SPORTS</string>
+    <string name="news_tab_string_technology">TECHNOLOGY</string>
+    <string name="news_tab_string_business">BUSINESS</string>
+
+    <string name="news_tab_id_technology">technology</string>
+    <string name="news_tab_id_business">business</string>
+    <string name="news_tab_id_worldnews">world</string>
+    <string name="news_tab_id_sports">sport</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_results_search">No Results Found</string>
+    <string name="no_internet">Oops! No internet</string>
+</resources>
